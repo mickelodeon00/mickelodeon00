@@ -1,5 +1,21 @@
 ### Hi there 👋
 
+
+
+I'm a passionate web developer with a strong background in industrial mathematics. My journey into coding began during my studies, and I've since immersed myself in the world of web development.
+
+### Skills
+
+- **Front-end:** React.js, JavaScript
+- **Back-end:** Node.js, Express.js
+- **Database:** MongoDB
+
+### Current Project
+
+I recently deployed a test site on Netlify, showcasing my ability to build full-stack applications. This project utilizes React.js for the front-end, Node.js and Express.js for the back-end, and MongoDB for data storage.
+
+I'm actively seeking internship opportunities to further enhance my skills and gain valuable industry experience. Feel free to explore my repositories and reach out if you'd like to collaborate or discuss potential opportunities.
+
 <!--
 **mickelodeon00/mickelodeon00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
