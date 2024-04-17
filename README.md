@@ -1,6 +1,5 @@
-### Hi there 👋
 
-
+### Hello, I'm Micheal!
 
 I'm a passionate web developer with a strong background in industrial mathematics. My journey into coding began during my studies, and I've since immersed myself in the world of web development.
 
@@ -12,7 +11,7 @@ I'm a passionate web developer with a strong background in industrial mathematic
 
 ### Current Project
 
-I recently deployed a test site on Netlify, showcasing my ability to build full-stack applications. This project utilizes React.js for the front-end, Node.js and Express.js for the back-end, and MongoDB for data storage.
+I recently deployed an e-commerce test site on Netlify, showcasing my ability to build full-stack applications. This e-commerce project utilizes React.js for the front-end, Node.js and Express.js for the back-end, and MongoDB for data storage.
 
 I'm actively seeking internship opportunities to further enhance my skills and gain valuable industry experience. Feel free to explore my repositories and reach out if you'd like to collaborate or discuss potential opportunities.
 
