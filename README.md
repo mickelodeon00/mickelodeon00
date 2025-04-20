@@ -5,15 +5,17 @@ I'm a passionate web developer with a strong background in industrial mathematic
 
 ### Skills
 
-- **Front-end:** React.js, JavaScript
-- **Back-end:** Node.js, Express.js
-- **Database:** MongoDB
+- **Front-end:** React.js, Next.js, Typescript 
+- **Back-end:** Express
+- **Database:** MongoDB, Supabase 
 
 ### Current Project
 
-I recently deployed an e-commerce test site on Netlify, showcasing my ability to build full-stack applications. This e-commerce project utilizes React.js for the front-end, Node.js and Express.js for the back-end, and MongoDB for data storage.
+I'm a full-stack developer passionate about building scalable, user-centric applications. Recently, I contributed to Vetlep, a microfinance web application designed to streamline loan processing, customer management, and financial operations. I also worked on the Valdymas College Dashboard, a modern academic dashboard for managing student records, courses, and internal processes.
 
-I'm actively seeking internship opportunities to further enhance my skills and gain valuable industry experience. Feel free to explore my repositories and reach out if you'd like to collaborate or discuss potential opportunities.
+My stack includes React.js, Next.js, TypeScript, Node.js, Express.js, and MongoDB, with additional experience in tools like Tailwind CSS, Cloudinary, and Material UI. I focus on writing clean, maintainable code and delivering solutions that solve real-world problems.
+
+I'm open to junior developer roles, collaborations, and freelance opportunities—feel free to explore my projects and connect!
 
 <!--
 **mickelodeon00/mickelodeon00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
