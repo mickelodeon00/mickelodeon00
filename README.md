@@ -5,9 +5,9 @@ I'm a passionate web developer with a strong background in industrial mathematic
 
 ### Skills
 
-- **Front-end:** React.js, Next.js, Typescript 
-- **Back-end:** Express
-- **Database:** MongoDB, Supabase 
+- **Front-end:** React.js, Next.js, Typescript, Tanstack Start
+- **Back-end:** Express, Hono
+- **Database:** MongoDB, Supabase, NeonDD, appwriteDb
 
 ### Current Project
 
@@ -15,7 +15,7 @@ I'm a full-stack developer passionate about building scalable, user-centric appl
 
 My stack includes React.js, Next.js, TypeScript, Node.js, Express.js, and MongoDB, with additional experience in tools like Tailwind CSS, Cloudinary, and Material UI. I focus on writing clean, maintainable code and delivering solutions that solve real-world problems.
 
-I'm open to junior developer roles, collaborations, and freelance opportunities—feel free to explore my projects and connect!
+I'm open to junior developer roles, collaborations, and freelance opportunities, feel free to explore my projects and connect!
 
 <!--
 **mickelodeon00/mickelodeon00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
