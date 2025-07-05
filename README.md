@@ -7,7 +7,7 @@ I'm a passionate web developer with a strong background in industrial mathematic
 
 - **Front-end:** React.js, Next.js, Typescript, Tanstack Start
 - **Back-end:** Express, Hono
-- **Database:** MongoDB, Supabase, NeonDD, appwriteDb
+- **Database:** MongoDB, Supabase, NeonDB, appwriteDb
 
 ### Current Project
 
